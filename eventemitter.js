@@ -1,6 +1,6 @@
 // eventEmitter.js
 // Simple Event Emitter implementation for subscribing and emitting events
-// Author: [TuoNome] - Educational purposes only
+// Educational purposes only
 
 class EventEmitter {
   constructor() {
